@@ -1,0 +1,42 @@
+body {
+    background-color: white;
+    background-image: url("https://images.pexels.com/photos/988872/pexels-photo-988872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  }
+  
+  img {
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    border-radius: 100%;
+  }
+  
+  .header {
+    font-family: Julius Sans One;
+    font-weight: bold;
+    color: black;
+  }
+  
+  .desc {
+    font-family: Julius Sans One;
+    margin-bottom: 50px;
+    color: black;
+    font-weight: bold;
+  }
+  
+  .resize {
+    height: 184px;
+    width: 184px;
+  }
+  
+  .flip .back {
+    background-color: black;
+    font-family: Julius Sans One;
+    padding: 10px;
+  }
+  
+  .detail {
+    color: white;
+  }
+  
+  .footer p {
+    color: gray;
+    margin-left: 30px;
+  }
