@@ -4,3 +4,5 @@
   Tribute Page (FCC)</a> by Lindy (<a href="https://codepen.io/wallflower6">@wallflower6</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
+
+<p>The Codepen pen are missing a few images as they've been removed from the links, the page is fully viewable here -> <a href="https://wallflower6.github.io/tribute-page/">Tribute Page</a></p>
